@@ -1,0 +1,12 @@
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\Inputs\Input5.txt
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\Inputs\Input4.txt
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\Inputs\Input3.txt
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\Inputs\Input2.txt
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\Inputs\Input1.txt
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csprojAssemblyReference.cache
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
+C:\Users\d-sajo2\Documents\08.AdventOfCode\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb

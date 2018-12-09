@@ -55,6 +55,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Inputs\Input5.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Inputs\Input4.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
