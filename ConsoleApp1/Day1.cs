@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 namespace ConsoleApp1
 {
-    class Day1
+    public class Day1
     {
-        static void Day1Solution()
+        public static void Day1Solution()
         {
             int frequency = 0;
             List<int> frequencies = new List<int>();

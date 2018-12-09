@@ -2,29 +2,29 @@
 using System.Collections.Generic;
 namespace ConsoleApp1
 {
-    class Day2
+    public class Day2
     {
-        //static void Main(string[] args)
-        //{
-        //    var input = ParseFile();
+        public static void Day2Solution()
+        {
+            var input = ParseFile();
 
-        //    int numberOfTwos = 0;
-        //    int numberOfThrees = 0;
+            int numberOfTwos = 0;
+            int numberOfThrees = 0;
 
-        //    foreach (var line in input)
-        //    {
-        //        if (matchXTimes(line, 2))
-        //            numberOfTwos++;
-        //        if (matchXTimes(line, 3))
-        //            numberOfThrees++;
-        //    }
+            foreach (var line in input)
+            {
+                if (matchXTimes(line, 2))
+                    numberOfTwos++;
+                if (matchXTimes(line, 3))
+                    numberOfThrees++;
+            }
 
-        //    var result = numberOfTwos * numberOfThrees;
-        //    Console.WriteLine(result);
-        //    Console.Read();
+            var result = numberOfTwos * numberOfThrees;
+            Console.WriteLine(result);
+            Console.Read();
 
-        //    findBoxes(input);
-        //}
+            findBoxes(input);
+        }
 
 
 

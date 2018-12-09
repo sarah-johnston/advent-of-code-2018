@@ -4,9 +4,9 @@ using System.IO;
 
 namespace ConsoleApp1
 {
-    class Day3
+    public class Day3
     {
-        static void Main(string[] args)
+        public static void Day3Solution()
         {
             var input = ParseFile();
 
@@ -16,11 +16,11 @@ namespace ConsoleApp1
             int gridSize = 2000;
 
             int[,] grid = new int[gridSize, gridSize];
-            for (int i = 0; i < gridSize*gridSize; i++)
+            for (int i = 0; i < gridSize * gridSize; i++)
             {
                 grid[i % gridSize, i / gridSize] = 0;
             }
-          
+
 
             foreach (var coordinate in input)
             {
@@ -37,10 +37,10 @@ namespace ConsoleApp1
                     {
                         grid[coord[1], coord[2]] = -1;
                     }
-                    
+
                 }
             }
-            
+
             foreach (var coordinate in input)
             {
                 int ID = GetID(coordinate);
@@ -67,7 +67,7 @@ namespace ConsoleApp1
                 }
             }
 
-            
+
             //Console.WriteLine(duplicates);
             //Console.ReadLine();
         }
