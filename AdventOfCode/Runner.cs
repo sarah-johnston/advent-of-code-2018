@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp1
+﻿using AdventOfCode.Days;
+
+namespace AdventOfCode
 {
     class Runner
     {

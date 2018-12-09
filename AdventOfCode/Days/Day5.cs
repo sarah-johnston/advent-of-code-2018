@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1
+﻿namespace AdventOfCode.Days
 {
     public class Day5
     {

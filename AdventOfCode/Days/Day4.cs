@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ConsoleApp1
+namespace AdventOfCode.Days
 {
     public class Day4
     {

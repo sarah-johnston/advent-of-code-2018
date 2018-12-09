@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 
-namespace ConsoleApp1
+namespace AdventOfCode
 {
     public static class Common
     {
@@ -9,7 +9,7 @@ namespace ConsoleApp1
         {
             List<string> output = new List<string>();
             string line;
-            StreamReader file = new StreamReader(filename);
+            StreamReader file = new StreamReader("Inputs/" + filename);
 
             while ((line = file.ReadLine()) != null)
             {
